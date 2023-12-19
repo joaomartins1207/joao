@@ -56,3 +56,20 @@ header img {
  footer a:hover {
     color: blue;
  }
+ .contact-form input {
+    width: 100%;
+    padding: 8px 0px;
+    margin: 8px 0px;
+ }
+ .contact-form input[type=text] {
+    height: 100px;
+ }
+ button {
+    background-color: white;
+    border: 2px;
+    width: 100px;
+    height: 30px;
+ }
+ form button:hover {
+    color: blue;
+ }
